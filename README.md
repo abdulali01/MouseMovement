@@ -5,7 +5,7 @@
 2. eyes.js - extended javascript.  1. ball created 2. mousemove based on the events.  It is based on the width and height of the eye shape.
 3. style.css - adding styles and color to the delivery of the eye movement and mouse movements.
 
-<a href="eyes.gif"> Eyes </a>
+<a href="https://abdulali01.github.io/MouseMovement/"> Eyes </a>
 
 How to locally test and run on your machine:
 1. Review the details of the index.html, eyes.js, styles.css
