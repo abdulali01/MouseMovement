@@ -1,5 +1,5 @@
 # MouseMovement
-## It will track your mouse movement across your screen.  You can have some fun when you want to express eye movement based on your mood.
+## It will track your mouse movement across your screen -it will be tracked using two eyes. You can have some fun when you want to express eye movement based on your mood.
 
 1. Index.html - Very simple index information using HTML
 2. eyes.js - extended javascript.  1. ball created 2. mousemove based on the events.  It is based on the width and height of the eye shape.
